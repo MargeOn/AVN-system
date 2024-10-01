@@ -8,7 +8,7 @@ Project bao gồm các kiến thức đã sử dụng như:
 - Hàm, tham trị, tham chiếu
 - Sắp xếp, tìm kiếm
 - STL container: vector
-- Các tính chất của hướng đối tượng: kế thừa, đa hình
+- Các tính chất của hướng đối tượng: kế thừa
 - Sử dụng regex để kiểm tra việc nhập dữ liệu có hợp lệ hay không hợp lệ
 - Kiểm soát ngoại lệ (exception handling)
 - Thao tác đọc ghi file.
